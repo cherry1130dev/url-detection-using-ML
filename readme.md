@@ -1,3 +1,4 @@
+![alt text](<Screenshot (465).png>)
 # URL Detection Project
 
 This project detects whether a URL is **benign (safe)** or **malicious (unsafe)** using a combination of manual feature extraction and character-level vectorization with a Random Forest classifier.
