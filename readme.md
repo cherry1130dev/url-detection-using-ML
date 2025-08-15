@@ -30,14 +30,17 @@ Python 3.10 or above.
 
 pip install -r requirements.txt
 
-first run the "*python main.py*" (for fenerating modals using dataset.csv)
-after the model is created then run "*python app.py*" (it creating a server in localhost)
-then click the ip address link like "*Running on http://127.0.0.1:5000*"
-for stoping server Press "*CTRL+C*" to quit
+first run the "**python main.py**" (for fenerating modals using dataset.csv)
 
+after the model is created then run "**python app.py**" (it creating a server in localhost)
 
+then click the ip address link like "**Running on http://127.0.0.1:**"
 
-## Developer & Contact Info
+for stoping server Press "**CTRL+C**" to quit
+
+---
+
+## **Developer & Contact Info**
 
 Website: https://easitronics.netlify.app/
 Developer: Charan Cherry
